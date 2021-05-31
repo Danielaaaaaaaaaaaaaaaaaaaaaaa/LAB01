@@ -1,19 +1,13 @@
+<!DOCTYPE html>
+<html>Daniela
+<head>Montenegro
+<title> Acuario</title>
+</head>
+<body>
 
-<html>
-<title>
-First Aquarium in the World 
-</title>
+<h1>Primer Acuarion En El Mundo</h1>
+<p>¿ Crees tu que es interesante saber cual fue el primer acuario en el mundo? ¡Si tu respuesta fue SI, porfavor haz click en el link de abajo!</p>
 
-<body> 
- <h1> El primer acuario del mundo es un tema muy interesante, porfavor haz click en este link. Este Link es un mini quiz sobre El primer acuario del Mundo</h1>
 </body>
-
-<style>
-</style>
-    body {
-        background-color:blue;
-        color:#fff;
-        text-allign:center;
-        
-    }
 </html>
+
