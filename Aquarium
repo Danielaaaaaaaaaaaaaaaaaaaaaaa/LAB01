@@ -12,7 +12,7 @@ First Aquarium in the World
 </style>
     body {
         background-color:blue;
-        color:#ffff;
+        color:#fff;
         text-allign:center;
         
     }
